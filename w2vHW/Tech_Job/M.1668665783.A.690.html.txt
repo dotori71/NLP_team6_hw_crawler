@@ -1,0 +1,122 @@
+Thu Nov 17 14:16:21 2022
+
+ 
+ 
+ 
+ [ 徵 才 ]   一卡通   [ Remote ]   Sr   Software   Engineer   –   Backend   -   看 板   Tech _ Job   -   批 踢踢 實業坊 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 批 踢踢 實業坊 
+ › 
+ 看 板   Tech _ Job 
+ 關於 我們 
+ 聯絡 資訊 
+ 
+ 
+ 
+ 
+ 返回 看 板 
+ 
+ 
+ 
+ 
+ 作者 ipp21   ( ipp21 ) 看板 Tech _ Job 標題 [ 徵 才 ]   一卡通   [ Remote ]   Sr   Software   Engineer   –   Backend 時間 Thu   Nov     : :   
+ [ 公司 名稱 ]   一卡通 票證 股份 有限公司 
+ We   -   ipass   company   drive   the   business   on 
+ top   of   the   transit   and   e - payment   data   and   have   the   vast   monopolistic 
+ advantage   base   on   we ' re   one   of   two   company   which   related   to   Taiwan ' s   main 
+ transportation 
+ 
+ We   need   you   to   help   the   team   to   investigate   these   data   and   provide   the 
+ analytics / reports   to   the   business   to   make   the   important   decisions   and   build   a 
+ flexible   dashboard   or   API   for   third - party   Let   us   keep   excited   to   reveal   the 
+ next   page   of   the   transit   and   e - payment   ecosystem 
+ 
+ [ Remote ]   Sr   Software   Engineer   –   Backend 
+ 
+ [ Responsibilities ] 
+ ‧ Co - work   with   our   transit   card   operation   and   e - payment   team   to 
+     unify   these   two   features   to   provide   a   convenient   way ,   then   get   a 
+     good   payment   experience 
+ ‧ Charge   for   building   the   APIs   for   BI   tools   and   DMP   solutions   to 
+     help   Business   Intelligence   to   make   their   decisions 
+ ‧ Design   and   build   a   reliable   and   high - performance   system   and   write 
+     high   quality   code 
+ ‧ Be   passionate   about   spreading   the   innovative   spirit ,   and   help   the 
+     team   keep   moving   on   technical   development 
+ [ Requirements ] 
+ ‧ +   years   of   experience   in   backend   development 
+ ‧ Familiar   with   at   least   1   modern   web   framework 
+ ‧ Familiar   with   at   least   1   NoSQL   solution 
+ ‧ Experience   in   container   technology ,   such   as   Docker 
+ ‧ Experience   with   the   concept   of   RESTful 
+ 
+ [ Nice   To   Have ] 
+ ‧ Knowledge   in   Kubernetes   or   similar   clustering   solutions 
+ ‧ Understand   the   importance   of   smart   metrics   and   alerting 
+ 
+ [ 薪資 福利 ] 
+ 月薪 :   k ~ k 
+ 絕佳 的 工作 地點 ： 高雄捷 運 公司 行政 大樓 ， 位 於高雄 捷運草 衙道 站 出口 、 
+     SKM   Park 購物 中心 旁 ， 可免 費停 汽機 車 ， 省去 找停 車位 的 困擾 
+ 彈性 工作 時間 ： 週一 ~ 周五 ， 以及 彈性 上下班 時間 ( 上班 : - : ， 下 
+     班 : - : ) ； 加班 時數 可抵 休假 或 申報 加班 費 
+ 可 申請 在家 遠端 工作 ： 面 對 後 疫情 時代 的 不確 定性 ， 公司 提供 彈性 的 工作 協作 方式 
+ 健全 的 教育 訓練 ： 提供 完整 的 金融法 規及 內 外部 專業 訓練 課程 ； 
+     員工 自行 參加 外部 進修 或 語言 學習 課程 補助 
+ 完善 的 員工 福利制度 ： 
+     A 免費 的 員工體 檢 
+     B 享勞 、 健 保 、 團保 
+     C 婚 喪 喜慶 補助 
+     D 通勤 補助 
+     E 員 工休 閒服 
+ 團隊 建設 ： 
+     A 透明 的 月會 溝通 （ 包括   AMA ,   Ask   Me   Anything ） 
+     B 不定期 團建 活動 （ 如 電影 包場 ） 
+     C 年度 員工 旅遊 
+ 
+ [ 上班 時間 ]   彈性 上下班 時間 ( 上班 : - : ， 下班 : - : ) 
+ [ 需求 人數 ]   位 
+ [ 聯絡 方式 ]   如有 興趣 者 歡迎 投遞 履歷 至 [ email   protected ] 
+ 
+ - - 
+ ※   發信 站 :   批 踢踢 實業坊 ( ptt cc ) ,   來 自 :     ( 臺 灣 ) 
+ ※   文章 網址 :   https : / / www ptt cc / bbs / Tech _ Job / M A html 
+ →   sc1                   :   依法 委 外 要 公告 徵 才   /   : 
+ ※   編輯 :   ipp21   (   臺 灣 ) ,   / /   : : 
+ 推   holebro           :   +   years   k   /   : 
+ 推   kentyeh           :   樓上 , 以前 有 有 看 過 這家 , 比 以前 了 , 也 不 知道   /   : 
+ →   kentyeh           :   是不是 還 要 輪 班   /   : 
+ →   sc1                   :   太 好 的 職缺   通常 不 會 出現 在 此 版 啦   /   : 
+ →   jobintan         :   說 是 remote 該 不 會 限定 住 在 暖 市 吧 …   /   : 
+ 推   ZackRyo           :   - 這 range   也 差 太 了 吧   /   : 
+ 推   PoloHuang       :   新 總 經理 上任 後 不錯   /   : 
+ →   mscmobitai     :   怎 不 寫 K - K   ？   笑 死   /   : 
+ 推   crc2121           :   明明 就是 台商 ， 還 來 澇 英文 。   /   : 
+ →   SYSQP               :   雇主 想濾 掉 英文 不好 的 不行 嗎 ?   /   : 
+ 推   wintersxp       :   此 篇 po 出 後 一小 時 ， 我 被發 感謝 函 ， 但 我 只是 丟 ，   /   : 
+ →   wintersxp       :   沒面 試過   /   : 
+ 推   wintersxp       :   還 只 寫 面議 （ 以上 ） , 我 住 暖 市 也 沒 機會   /   : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

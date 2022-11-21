@@ -1,0 +1,209 @@
+Tue Nov 15 23:02:37 2022
+
+ 
+ 
+ 
+ [ 討論 ]   台灣 谷哥 有 可能 裁員 嗎 ?   -   看 板   Tech _ Job   -   批 踢踢 實業坊 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 批 踢踢 實業坊 
+ › 
+ 看 板   Tech _ Job 
+ 關於 我們 
+ 聯絡 資訊 
+ 
+ 
+ 
+ 
+ 返回 看 板 
+ 
+ 
+ 
+ 
+ 作者 LinuxKernel   ( Linus   Torvalds ) 看板 Tech _ Job 標題 [ 討論 ]   台灣 谷哥 有 可能 裁員 嗎 ? 時間 Tue   Nov     : :   
+ 科技 業裁員 風暴 從   Twitter 、 Meta   準備 燒往   Amazon 
+ 
+ 想到 谷哥 這 在 台灣 大舉 挖 人 蓋 大樓 
+ 
+ 但   Pixel   麻   市佔率 看 起來 依舊 軟 趴 趴 
+ 
+ 不 曉得 有 沒有 當年 微軟 手機 慘 
+ 
+ 在 市場 上 說 實在 沒有 太大 競爭 力 
+ 
+ 
+ 台谷   Pixel / Silicon   團隊 也 有 可能 受到 波及 嗎 ? 
+ 
+ 這個 時間   lay   人 也 還 不曉 得發 哥會 不 會 回收 
+ 
+ 
+ 
+ 不 說 了 ， 先去 陪 亞 麻 朋友 喝酒 了 ， 他 說 他 今晚 可能 會 睡 不著 
+ 
+ - - 
+ ※   發信 站 :   批 踢踢 實業坊 ( ptt cc ) ,   來 自 :     ( 印度 ) 
+ ※   文章 網址 :   https : / / www ptt cc / bbs / Tech _ Job / M A html 
+ 推   alihue             :   要 砍 也 不是 砍手 機吧 ， 其他 小   app   先 收   /   : 
+ 噓   cityhunter04 :   你 打去 問 總 公司 的 老 闆 比 較 快   /   : 
+ 噓   MAGICMCGRADY :   這 ID 不 意外 ， 就是 想 看好 戲 落井下石   /   : 
+ →   watashino       :   pixel 丟 這麼 錢 進去   還 沒 做起 來 就 止損 也 太 虧   /   : 
+ 推   brightest       :   所以 哪間 砍到 台灣 分部 了 ?   /   : 
+ 推   Assyla             :   感覺   NEST 也 很 危險   /   : 
+ →   iPadProPlus   :   約 聘 的   /   : 
+ →   blandan           :   Nest 最近 砍 單 砍 很大   有 機會   /   : 
+ 推   double21         :   幾乎 每 都 有 砍 到 台灣 分部 ， 只是 新聞 沒報   /   : 
+ 噓   hsutifen         :   我 看 起來 像 hr 嗎 ?   /   : 
+ 推   sss700304       :   呵呵 ， 8 % 等 公 佈 吧   /   : 
+ →   cunankimo       :   他 還 在 台灣 蓋 新 大樓   你 覺得 呢 ?   /   : 
+ →   MAGICMCGRADY :   樓上 算是 在 販賣 恐懼 ？ a 了 你 is 不 在 Google 也 不 在   /   : 
+ →   MAGICMCGRADY :   美國   /   : 
+ →   MAGICMCGRADY :   * id   /   : 
+ →   MAGICMCGRADY :   我 指 某 sss   /   : 
+ →   nevikw39         :   發 這種 文 也 要 用   VPN   /   : 
+ →   nevikw39         :   https : / / spur us / context /   /   : 
+ 推   symeng             :   單純 不 喜歡 hoogler ？   /   : 
+ 推   joe931             :   股哥 手機 只要 所有 股哥 服務 用 自家 手機 免費 保證 大 賣   /   : 
+ 推   GymRat             :   不太可能   /   : 
+ 推   sss700304       :   我 販賣 恐懼 ？ 你 要 不要 查 我 在 哪 ？ 然 後 要 不要 問   /   : 
+ →   sss700304       :   下 內部 情況 ？   /   : 
+ 推   genic               :   跟 blinds   傳是 %   support   check   in 。 但是 是 在   /   : 
+ →   genic               :   美國   /   : 
+ 推   MAGICMCGRADY :   你 在 哪 ？ 真的 要裁 blind 早 風聲 了 哪輪   /   : 
+ →   MAGICMCGRADY :               到 你   /   : 
+ →   MAGICMCGRADY :   而且 support   check   in 根本 不 等 於 裁員   /   : 
+ →   MAGICMCGRADY :   Support   check   in 也 不 等 於 最 後 的 考績   /   : 
+ 推   sdbb                 :   跪求 內 推   /   : 
+ 推   cradredtade   :   米國 人   要 砍 也 是 砍 最多 的   /   : 
+ 推   zizc06719       :   都 還 在 招人 捏 ， 砍 人 ?   /   : 
+ →   watashino       :   地 有 新 八卦   /   : 
+ 推   genic               :   Headcount   freeze 跟 out   of   cycle 的 support   check   in   /   : 
+ →   genic               :     被 視為 裁員 的 前置 作業 ， 現在 風聲鶴唳 的 。   /   : 
+ 推   dishing           :   sss700304   你 在 哪 我 不 知道 ,   但 我 在 內部 感覺 良好 , 也   /   : 
+ →   dishing           :   不知 你 那 趴 是 指 啥   /   : 
+ 推   claymath         :   我 被 裁 之前 也 感覺 良好 啊   哭哭   /   : 
+ 推   dishing           :   樓上 節哀 順變   能力 夠 的 話 不用 擔心   加油   /   : 
+ 推   Ericz7000       :   沒有 support   check - in   但 看 之前 meta 裁 的 沒有 規律 ，   /   : 
+ →   Ericz7000       :   我 覺得 人人 都 危險   /   : 
+ →   WWIII               :   clay   拍拍   拜 託 高手 別 回 台灣 搶 工作 啊   /   : 
+ 推   matyih             :   內部 情況 怎 了 ？ ss   ldap 給 啊   /   : 
+ 推   bucketface     :   有 消息 說 明年   看看 是不是 真的 囉   /   : 
+ 推   MAGICMCGRADY :   sss 給 ldap 內部 交流 吧   /   : 
+ 推   MAGICMCGRADY :   Meta 好像 是 eng   5 %   /   : 
+ 推   bboman             :   今天 WSJ 已經 有 新聞 說 東施 壓 要求 減少 cost   /   : 
+ 推   MAGICMCGRADY :   其 實 一直 在 減 了   /   : 
+ 推   mozun               :   Meta director 被 裁 前一天 才 知道 消息 啊 哪 有 那麼 好   /   : 
+ →   mozun               :   知道   來 這裡 問 是 以為 版 上 的 人 都 董事 會 成員 嗎 XD   /   : 
+ 推   goodga             :   新 大樓 都 是 遠東 的 好 嗎 ， Google 只是 租借 ， 說 不 租 了 也   /   : 
+ →   goodga             :   是 划 得 來   /   : 
+ 推   BJC4100           :   Blind 已經 在 說   google 明年 動刀   /   : 
+ 推   ucboy5566       :   要 裁員 blind 會 先 知道 ？ 對 美國 職場 是 有 無知 啊   /   : 
+ 推   andykao082     :   短期 不 會 吧 ， 雖然 手機 虧 錢 ， 之 後 就   /   : 
+ 推   BJC4100           :   Meta   跟   Amazon   都 說 中 了   你 可以 不信 啊   呵呵   /   : 
+ →   iPadProPlus   :   contractor   瑟瑟 發抖   /   : 
+ 推   jailkobe5566 :   可以 去 版友 們 最愛 的 台積 電 ， 吊 打谷 歌 蘋果 的 幸福 企業   /   : 
+ →   LinuxKernel   :   也 在 傳 了   /   : 
+ 推   tallpenguin   :   pixel7 我 喜歡 阿   /   : 
+ →   zzahoward       :   我 沒 內部 消息   不過 recruiter / outsourcing 都 掰掰 惹   /   : 
+ →   zzahoward       :   可能 先 從 back   office 開始 弄 吧   /   : 
+ →   LinuxKernel   :   今天 可以 先 看台 灣 的 阿麻 粽有沒有 受到 波及   /   : 
+ →   zzahoward       :   台灣亞 麻仔 以 AWS 占 不是 ?   AWS 沒裁   /   : 
+ →   LinuxKernel   :   台灣 有 Devices   &   AI 吧   /   : 
+ →   LinuxKernel   :   看職 缺 就 知道 了 ， 認識 的 也 都 不是 在 AWS   /   : 
+ 推   xxp680             :   Blind 先 流出 來 有 什麼 好 奇怪 的   /   : 
+ 推   twinkle38       :   很 奇妙   原 ok   問 台灣谷 歌會 不 會 裁 有些 人 反應 很大   /   : 
+ 推   NIRVANAtu       :   我 也 想 知道 內部 消息 , SS 大大 給 LDAP 大家 交流 啊   /   : 
+ →   zzahoward       :   我 記得 MagicMcgrady 是 在 美國 G   /   : 
+ 推   murray5566     :   不然 你 以為 估狗 找 約 聘 幹 嘛   到 時候 不續 約 就 好   沒   /   : 
+ →   murray5566     :   有 裁 喔   /   : 
+ 推   kuyfd456         :   你 在 裡頭 的 話 再 考量 吧   /   : 
+ 推   xvited945       :   蓋大樓 就 不 裁員 ？ Amazon 也 在 蓋 HQ 啊 ， 哪 來的 想   /   : 
+ →   xvited945       :   法蓋 辦公樓 = 不 會 裁員 啊 ， 這 想法 也 太菜   /   : 
+ →   xvited945       :   至於 AWS ， 內部 消息 是 月底 「 有 可能 」 重開 部分 職 缺   /   : 
+ →   xvited945       :   的 招募   /   : 
+ 推   aiolk               :   外商 都 會 裁 啦   /   : 
+ 推   YiYaochAng     :   Meta 裁員 的 確是 Blind 先 出來 的   連裁員 severance     /   : 
+ →   YiYaochAng     :   少 也 是 Blind 先 出來 。 不要 質疑 我 大 Blind !   /   : 
+ 推   ppc                   :   應該 會 把 ， 不是 有 投資者 敦促 G 裁員 ？   /   : 
+ 推   Ericz7000       :   我 看 Blind 也 在 嘴 的 文章   不過 我 是 傾向 相信   /   : 
+ 推   douge               :   放心 啦     我 之前 預告 %   %   板 上 也 沒 人 信 阿 : D   /   : 
+ →   douge               :   還 有 其他 超過 %   的未 爆彈 呢   如果 只算 最近 的   /   : 
+ →   douge               :   那 可能 就 破表 了   /   : 
+ →   firstlead       :   Pixel 應該 不是 Google 主要 業務   /   : 
+ 推   ten9di9           :   他們 不是 還 在 找 人 嗎   /   : 
+ →   sc1                   :   死亡 列車 帶走   /   : 
+ 噓   pttano             :   會 ， 裁 光光 ， 怕 了 吧   /   : 
+ 推   MAGICMCGRADY :   裁員 % ， % ？ 你 認 真的 ？ 別 鬧 了   /   : 
+ 推   TAKADO             :   外商 裁員 最 可怕 的 是 ， 並 不 一定 是 砍 能力差 的 ， 強者 但   /   : 
+ →   TAKADO             :   太貴 或是 能力 ok 但 運氣 不好 在 屎 坑 專案 也 是 會 被 砍 。   /   : 
+ →   claymath         :   感謝 上面 的 拍拍   我 只是 個 外商 小 公司 老 闆 跟上 這 波 的   /   : 
+ →   claymath         :   而已   o ’ _ ’ o   /   : 
+ 推   pnsboy             :   pixel 之前 要麻 熱要 麻變 磚     信心 全失   /   : 
+ 推   doranako         :   pixel 不 會 裁 啦   /   : 
+ →   sc1                   :   改外 包   /   : 
+ 推   NTU5566NTHU   :   Google   做 pixel   怎麼 可能 是 要 靠 賣 自家 手機 賺 錢 XD   /   : 
+ 推   claymath         :   Pixel 應該 是 不 會 裁 吧   /   : 
+ 噓   mercurychen   :   說 不 會 裁 的 要 確定 內   /   : 
+ →   huhuiying       :   有人 會 說縮 減 重整 不 等 於 裁   /   : 
+ 推   honafire         :   不管 外商 台商 都 依樣 啦   該 裁 就 裁   /   : 
+ →   windowsliu     :   台灣 應該 劣幣 逐 良幣 , 越 裁越 虛 。 約 聘 才 是 主 戰力   /   : 
+ 推   Neistpoint     :   是 有 可能 會裁 , 不過 這   HR   妹子 還 在 幫 我 喬面 談   /   : 
+ →   Neistpoint     :   時間   /   : 
+ →   WenliYang       :   不 會 砍 啦   /   : 
+ →   Qcloud             :   不太可能   /   : 
+ 推   clint681104   :   不 會 裁 吧   hoogler 台灣 工程 師 相較 美國 CP 值高 又   /   : 
+ →   clint681104   :     耐操   ， 台灣 local   pay 低   就 公司 來 說   當然 以 找 CP   /   : 
+ →   clint681104   :   值高 的 人員 為 主   /   : 
+ 推   BigCockman     :   人 真的 是 搞不懂 欸   這種 大規模 裁   跟 你 便宜 不便   /   : 
+ →   BigCockman     :   宜強 不強   關 係 不 大   這種 都 是 要 精簡 或 收掉 業務線 的   /   : 
+ →   BigCockman     :     如果 pixel 中標台灣員工 肯定 躲 不 掉   /   : 
+ 推   fly2u               :   next 還是 開出 高薪 ， pixel 還 在 徵 人 ， 有 風聲 ？   /   : 
+ 推   genic               :   大規模 裁員 跟 能力 和 便 不 便宜 真的 無關   /   : 
+ 推   littlebroken :   這 波 大規模 裁員 跟 你 cp   奴 不 奴無關 啊   人 無力 改變   /   : 
+ →   littlebroken :   你 是 卷 王   烤 雞 屌 打   也 是 會 被 到   /   : 
+ 推   lantimes         :   希望 不要   在 新店 很爽 啊   /   : 
+ 推   XJY13               :   那麼 便宜   /   : 
+ 推   dishing           :   BigCockman   還是 有關 ,   敦節 營運 成本 與 收掉 產品線 往   /   : 
+ →   dishing           :   往 有 併 存 關 係 ， 所以 拿 高薪 的 地區 動刀 裁員 ， 同時 收   /   : 
+ →   dishing           :   掉 產品 線 讓 那些 單位 的 即 戰力 接手 ， 是 很 常見 的 ,   /   : 
+ →   dishing           :     是 最 有效 降低成本 且 不損 戰力 的 方式   /   : 
+ →   dishing           :   你 可以 觀察 DHL & G 近 在 台 策略 與 布局   /   : 
+ →   dishing           :   還 有   pixel 要 中 標實 在 難 ， 那 是 外行人 的 觀點 ， 我 講   /   : 
+ →   dishing           :   話 較直 , 抱歉   /   : 
+ 推   mathrew           :   現在 的 裁法 ， 很 有 可能 都 是 裁 專案 ， 那 跟 你 便 不 便宜   /   : 
+ →   mathrew           :   根本 無關   /   : 
+ →   mathrew           :   有關 的 ， 也 只是 運氣 好剛 好 留下 來   /   : 
+ 推   clyukimo         :   還 在 hire   RF 的 裁 ？   /   : 
+ 推   genic               :   哪 來 的 信心 完全 沒 賺 錢 的 部門 可以 永保 安康   /   : 
+ 推   dishing           :   小米 手機 有 賺 錢 嗎 ？   /   : 
+ 推   dishing           :   現在 各 品牌 搞 硬體 本來 就 有 不同 的 戰略 目標 ， 賺 錢 不是   /   : 
+ →   dishing           :   唯一 考量   /   : 
+ 推   JustinCy         :   G 在 台灣 大量 開缺 是 好事   怎麼 老 是 有人 喜歡 幸災樂禍   /   : 
+ →   JustinCy         :   至於 做出 來 產品 好不好 是 另外 回事   /   : 
+ 推   JustinCy         :   雖然 我 常常 酸 G 的 CPU ( 真的 爛 ） 但 只有 跳下去 做   才 知道   /   : 
+ →   JustinCy         :   軟體 架構 哪裡 出 問題   /   : 
+ →   kelune             :   美國 的 先 ， 但 海外 一定 有 影響 ！   不知 人 在 嘴 啥   /   : 
+ →   kelune             :   台灣 的 這麼 便宜 ， 中國 應該 會 先 擋 刀   /   : 
+ 推   aaagang           :   裁 一裁 , 爛 死 了   /   : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

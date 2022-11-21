@@ -1,0 +1,130 @@
+Tue Nov 15 14:00:32 2022
+
+ 
+ 
+ 
+ [ 請益 ]   月光 AI 工程 師 薪水 比 全家 店員 還 不如 ？   -   看 板   Tech _ Job   -   批 踢踢 實業坊 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 批 踢踢 實業坊 
+ › 
+ 看 板   Tech _ Job 
+ 關於 我們 
+ 聯絡 資訊 
+ 
+ 
+ 
+ 
+ 返回 看 板 
+ 
+ 
+ 
+ 
+ 作者 sheepmanager   ( AI 專家 ) 看板 Tech _ Job 標題 [ 請益 ]   月光 AI 工程 師 薪水 比 全家 店員 還 不如 ？ 時間 Tue   Nov     : :     
+ 剛 看到 
+ 月光 AI 工程 師 薪水 
+ 需要 會 PyTorch   TensorFlow 並 具備 視覺 化 能力 
+   
+ 但 薪水 只有 - 
+ 全家 正職 應該 有 以上 
+ 看 了 科系 分析   哇   還 有 餐 飲系 的 去 應徵 
+   
+   
+ - - - - 
+ Sent   from   BePTT   on   my   iPhone     Pro   Max 
+   
+ - - 
+ ※   發信 站 :   批 踢踢 實業坊 ( ptt cc ) ,   來 自 :     ( 臺 灣 ) 
+ ※   文章 網址 :   https : / / www ptt cc / bbs / Tech _ Job / M A F html 
+ 
+ ※   編輯 :   sheepmanager   (   臺 灣 ) ,   / /   : : 
+ 推   asin404           :   你 要 拿 一樣 在 高雄 的 全家 店員 月薪 去 比 不能 拿 北部 的   /   : 
+ 噓   hegemon           :   你 就 知道 人 看 網路 課程 就 覺得 自己 可以 做 ai 跟   /   : 
+ →   hegemon           :   資料 了   /   : 
+ →   Kyameron         :   反正 台灣 人 不 做   菲律賓 人 也 會 做   /   : 
+ →   chter               :   套模 仔 這樣 不 錯 了 吧   /   : 
+ →   abc0922001     :   真假 ， 笑 死 XDD   /   : 
+ →   dulldog           :   會 import   套件 就 成功   /   : 
+ 推   botnet             :   開 啊   /   : 
+ 推   bbsosadd         :   最好 是 會 開 那麼 低 ， 不然 你 看 石頭 職缺 還 不是 寫   /   : 
+ →   bbsosadd         :   或 起 ， 去 面 都 有 - 以上 好 嗎   /   : 
+ →   DrTech             :   正常 吧 ， 資策 會 課程 每年 出來 AI 工程 師 ， 文   /   : 
+ →   DrTech             :   組 的 。   /   : 
+ 推   lycppt             :   會 叫 AI 做 事情   就 叫 AI 工程 師 了 啊   /   : 
+ 推   okgogogo         :   你 不 知道 店員 難當 ？   /   : 
+ 推   ASEglobal       :   月光 薪資 福利   封測界 算 很棒   多充 實 自己 實力 吧   /   : 
+ 推   Merkle             :   他們 要 幹 的 事情 用 machine   learning   就 好 了   /   : 
+ →   Merkle             :   train 自己 都 不 知道 判斷 依據 的 model 出來   最好 敢   /   : 
+ →   Merkle             :   上線用   /   : 
+ 推   DSB520             :   網路 教學   老 闆 可以 自己 來   /   : 
+ 推   somefatguy     :   愛 工程 師   /   : 
+ 推   SEEDA               :   一直 都 是 阿   廢到 笑   /   : 
+ 推   eett811025     :   全家 有 小 紅單 嗎   /   : 
+ 推   shinyhaung     :   這 就是 為 什麼 月光 工程 師 不 願意 用 自家 AI 的 原因   /   : 
+ 推   ap954212         :   便利商店 的 店員 不 輕 鬆 欸   /   : 
+ 推   shyshyan         :   AI 都 拿 yolo 訓練 而已   這個 找 高中生 就 能 做 了   有   /   : 
+ →   shyshyan         :   本事 的 就是 自己 弄 演算法   不過 吼   呵呵   /   : 
+ 推   hellophoenix :   真人 沒有 ai 聰明 嗎 ？   /   : 
+ →   howzming         :   訓練 什麼 時候 排放 比較 不 會 被 抓到   /   : 
+ 推   z515026           :   ok   有 加餐 費   考慮   /   : 
+ 噓   JLPT                 :   神教 讚 讚 讚   /   : 
+ →   nanpolend       :   這家 不要 考慮 吧   /   : 
+ 推   dontgomtk56   :   南部 過 的 可以 比 北部 爽 欸   /   : 
+ 推   Roderickey     :   雜 魚系 的 有 可能 是 去 蹲 資策 會 或 緯育 之類 的   /   : 
+ 推   DarkIllusion :   產線 AI 不外乎 視覺 瑕疵 檢測   會 套 YOLO 類 CNN 就 好   /   : 
+ 推   misomochi       :   我 還 會 具現 化 能力 咧   /   : 
+ 推   yudofu             :   K 說 不定 只是 標注 仔   /   : 
+ 推   paulshain04   :   來 人   po   東 北大 餅薪 資   /   : 
+ →   ImHoluCan       :   神 轎 最好 那麼 少 ， 比 - ， 裡面 做   /   : 
+ →   ImHoluCan       :   天 ， 上班 有 上 與 沒上 ㄧ 樣 ， 只要 過一 開始 的 坎 ， 根本   /   : 
+ →   ImHoluCan       :   養老 ， 工作 比 - 還 嫌   /   : 
+ 推   ImHoluCan       :   真的 有 在 工作 也 沒 ， 根本 蟲 ㄧ 堆   /   : 
+ 噓   kfwibsj           :   只 收新 血   老人 不 收   /   : 
+ 推   jpadesky         :   不 會 數學 的 也 跑 來 資料 處理   /   : 
+ 推   jasonfghx       :   你 是 南 還 北 ？   /   : 
+ →   goldffin         :   看 你 什麼 學校 吧   /   : 
+ 推   ry00706841     :   裡面 蟲 ， 休 根本 沒 上班 的 感覺   /   : 
+ 推   bbbcccddd2     :   神 轎 工程 師 … 有的 只 會 打 電話 而已 吧   /   : 
+ 推   ImHoluCan       :   神 轎 人 那麼 ， 隨便 問 就 知到 ， 裡面 修 ， 交接 看 你   /   : 
+ →   ImHoluCan       :   部門 ， 台積 交接 小 時 ， 神 轎 可能 或 看 你 部門   /   : 
+ →   ImHoluCan       :   ， 薪資 不算 分紅 季獎金 ㄧ 至少 - 7 ， 甚至 加滿 新   /   : 
+ →   ImHoluCan       :   人 拿到 也 是 有人 ， 返 正 看 你 加班 但要 有 戰力 主管 同意   /   : 
+ →   ImHoluCan       :   ， 然 後 忙 的 時候 很忙 ， 閒 的 時 後 很 閒 ， 所以 根本 蟲   /   : 
+ →   ImHoluCan       :   ， 在 台積 的 什 狗屁 開會 ， 神 轎 少 得 很 鬼 ， 啊 版 上 說 很   /   : 
+ →   ImHoluCan       :   爛 是 因為 分紅 季獎金 當然 與 gg 不能 比 ， 還 有 管理制度   /   : 
+ →   ImHoluCan       :   超爛 ， 然 後 招 的 人素 質差 ， 很亂 很雜   /   : 
+ →   ImHoluCan       :   素質 超級 差 ， 裡面 很 差 的 真的 很 差   /   : 
+ →   ImHoluCan       :   返正 台廠 都 ㄧ 樣爛   /   : 
+ →   ImHoluCan       :   裡面 真的 職位 只 會 做 在 辦 公室 發 mail   ， 產線 什狀   /   : 
+ →   ImHoluCan       :   況 都 不 懂 ， 那種 人 也 根本 不 會 弄 ， 就 只 會 發 mail   叫 你   /   : 
+ →   ImHoluCan       :   弄 ， 所以 才 會 版 上 時 不時 的 有人 說 ， 人 只 會 摳 人   /   : 
+ →   ImHoluCan       :   或 幹麻 ， 反正 這間 就 這 狗 樣子 ， 重點 根本 不是 什 薪水   /   : 
+ →   ImHoluCan       :   ， 是 素質 很 差 ， 就是 那 品性 與 道德 有些 很 差   /   : 
+ →   ImHoluCan       :   不然 真的 是 養 老院 ， 這間 跑 台積 美光 也 人   /   : 
+ →   ImHoluCan       :   笑 死 大型 傳產 又 ㄧ 間 ， 根本 不是 什 科技 業 ， 管理 很雜   /   : 
+ →   ImHoluCan       :   也 很亂 ， 有些 東西 也 都 沒有統 一說 明 ， 讓 你 自己 搞 自   /   : 
+ →   ImHoluCan       :   己 弄 自己 摸 ， 效率 超差 超爛 ， 教育 台廠 都 ㄧ 樣爛 ， 根   /   : 
+ →   ImHoluCan       :   本 搞笑   /   : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

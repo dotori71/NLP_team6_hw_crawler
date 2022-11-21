@@ -1,0 +1,109 @@
+Sat Nov 19 20:26:39 2022
+
+ 
+ 
+ 
+ [ 新聞 ]   奈米 良率 想 超車 台積 電   三星 找 美 企求 援   -   看 板   Tech _ Job   -   批 踢踢 實業坊 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 批 踢踢 實業坊 
+ › 
+ 看 板   Tech _ Job 
+ 關於 我們 
+ 聯絡 資訊 
+ 
+ 
+ 
+ 
+ 返回 看 板 
+ 
+ 
+ 
+ 
+ 作者 XI   ( MAN ) 看板 Tech _ Job 標題 [ 新聞 ]   奈米 良率 想 超車 台積 電   三星 找 美 企求 援 時 間 Sat   Nov     : :   
+ https : / / ec ltn com tw / article / breakingnews / 
+ 
+ 奈米 良率 想 超車 台積 電   三星 找 美 企求 援 
+ 
+ / /   : 
+ 
+ https : / / img ltn com tw / Upload / business / page / / / / / phpcqCpM6 jpg 
+ 據 報導 ， 美國 公司 Silicon   Frontline 將 幫助 三星 改進 先 進 晶片 製 程 的 良 率 。 （ 法新社 ） 
+ 
+ 〔 財經 頻道 ／ 綜合 報導 〕 三星 在 晶片 製 造 方面 技術 不如 台積 電 ， 一直 苦苦 掙扎 突破 現況 。 
+ 據 Naver 報導 ， 三星 已 與 美國 公司 Silicon   Frontline   Technology 合作 ， 提高 半導體 晶片 
+ 在 生產 過程 中 的 良率 。 三星 奈米 和 奈 米 製 程 存在 良率 相關 的 問題 ， 而 三星 不 希望 在 奈 
+ 米 製 程 又 出 現 這 種 情 況 。 據 報導 ， Silicon   Frontline 將 幫助 三星 改進 先 進 晶片 製 程 的 性 
+ 能 和 良率 。 
+ 
+ 三星 代工 廠 製 造 的 Snapdragon   和 Snapdragon   8   Gen1 存在 過 熱 問題 ， 結果 ， 失去 了 製 
+ 造 Snapdragon   +   Gen   1 、 Snapdragon   8   Gen   和 Nvidia   RTX     GPU 的 合約 。 目前 三星 
+ 正在 努力 解決 這些 問題 。 
+ 
+ Silicon   Frontline 提供 晶片 資格 評估 和 ESD （ 靜電放電 ） 預防 技術 。 ESD 是 導致 半導體 晶 
+ 片 缺陷 的 主要 原因 之一 。 據 報導 ， 三星 在 晶片 設計 和 生產 過程 中 與 Silicon   Frontline 長 
+ 期 合作 ， 並 取得 了 令人 滿意 的 結果 。 
+ 
+ 報導 指出 ， 如果 三星 設法 提高 未來 晶片 製 造 工 藝 的 性能 奏效 ， 結合 其 奈米 GAA 架構 ， 三星 
+ 代工 可能 會 再次 與 台積電 競爭 ， 並 獲得 超微 半導體 、 輝達 和 高通 等 大 客戶 的 訂單 。 高通 已 
+ 提到 ， 作為 雙 代工 廠 採購 戰略 的 ， 可能 會 重新 與 三星 合作 。 
+ 
+ - - 
+ 佛 沒 說 小乘 、 大乘 。 上座部 佛教 馬 哈希 尊者 《 具戒 經 講記 》 拆穿 假 佛教 大乘 經典 的 騙局 。 
+ 上座部 佛教 明昆 《 南傳 菩薩 道 》 是 真 釋迦 牟尼佛 的 菩薩 成佛 之 道     大乘 是 假 菩薩 成佛 之 道 
+ 妙法 蓮華 經   華嚴經   心經   金剛 經   楞伽 經   梵網 經 菩薩戒   圓覺 經   楞嚴 經   是   大乘 假 佛 經 
+ 阿彌 陀佛   藥師 佛   是   大乘 假 佛     觀世音   文殊   普賢   維摩 詰   龍樹   地藏王   是   大乘 假 菩薩 
+ https : / / www ptt cc / bbs / IA / M A D9C html 
+ 上座部 佛教 目 犍連子 帝須 和 那 先 破 偽 經 大乘 諸佛 
+ 
+ - - 
+ ※   發信 站 :   批 踢踢 實業坊 ( ptt cc ) ,   來 自 :     ( 臺 灣 ) 
+ ※   文章 網址 :   https : / / www ptt cc / bbs / Tech _ Job / M A A html 
+ 推   denny0000002 :   以 燃燒彈 來說 良率 很 高 啊 ？ 應 該 不 需要 改良   /   : 
+ 推   Jerry469         :     /   : 
+ 推   tedchen1025   :   製 造 工 藝 ， 這 字 就是 表示 這 篇文章 用抄 的   /   : 
+ 推   jhengME           :   台灣 輕 人 的 肝 ， 你 找 誰 來 都 超不過 的   /   : 
+ 推   ayler88           :   怪 ,   美企 救援 有用 的 話 ,   Intel 怎麼 連 nm 都 搞不定 ?   /   : 
+ 推   physicsdk       :   韓國 人 賣 命 工作 程度 會 輸 台灣 嗎 ？   /   : 
+ →   loko                 :   三星 的 nm = 台積 nm = intel   nm   /   : 
+ →   venomsoul       :   請 鬼 拿 藥 ？   /   : 
+ →   processor       :   找 得到 便宜 奴工 再 說 啦   /   : 
+ 推   grayeric         :   想 當初 聯電 找 IBM   /   : 
+ 推   physicsdk       :   喔 ， 便宜 這 點 韓 是 真的 贏 不了   /   : 
+ 推   jovi0001         :   請 鬼 拿 藥單   穩 了   /   : 
+ 推   Shepherd1987 :   輕 人 已經 不肝 了 ,   也 是 少子 化 的 side   effect   /   : 
+ 推   applejone       :   會 重新 合作   那麼 下 下一代 的 高通 大概 可以 跳 過 不 買   /   : 
+ →   hsiliang         :   https : / / i imgur com / bo9l0KX jpg   /   : 
+ →   hsiliang         :   三星 先處 理好 自己 的 股權 問題 吧   /   : 
+ 推   hsiliang         :   為 什麼 三星 電子 的 股份 會 被 三星 C & T 、 三星 人壽 、 三星   /   : 
+ →   hsiliang         :   火 砲 船 艦 這 公司 共同 持有   /   : 
+ 推   hsiliang         :   讓 後 三星 電子 又 有 三星 精密 化工 公司 的 股份   /   : 
+ →   hsiliang         :   這 公司 是 懂 怎麼 做 半導體 嗎 ？   /   : 
+ 推   hsiliang         :   阿 不 對 ， 三星 電子 還 有 三星 大型 化工 公司 的 股份   /   : 
+ →   hsiliang         :   三星 工程   /   : 
+ →   hsiliang         :   三星 顯示   /   : 
+ →   hsiliang         :   三星 SDS   /   : 
+ →   hsiliang         :   圖表 太 亂 ， 開始 沒 發現 是 持有 公司 的 股票   /   : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
