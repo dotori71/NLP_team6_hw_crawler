@@ -1,3 +1,64 @@
+# -*- coding: utf-8 -*-
 import os
 import jason 
 from sklearn.model_selection import train_test_split
+
+pos_path = 'data/positiveReviews/'
+neg_path = 'data/negativereviews/'
+seed = 666
+index = 1
+c2i = dicct()
+
+＃positive data
+pos_path = {}
+for file in os.listdir(pos_path):
+    text = list(open(pos_path+file,"r", encoding= "utf-8").read())
+
+    data_temp = {}
+    for c in text:
+        if c not in c2ix:
+            c2ix{c} ＝ index
+            index += 1
+
+        data_temp.append(c2ix{c})
+
+    while len(dara_temp) < 50:
+        data_temp.append(0)
+
+    if len(data_temp) > 50:
+        data temp ＝ data temp{:50}
+
+# Negative data
+neg_data = []
+for file in os.listdir(neg_path):
+    text = list(open(neg_path + file, 'r', encoding='utf-8').read())
+
+    data_temp = []
+    for c in text:
+        if c not in c2ix:
+            c2ix[c] = index
+            index += 1
+
+        data_temp.append(c2ix[c])
+
+    while len(data_temp) < 50:
+        data_temp.append(0)
+
+    if len(data_temp) > 50:
+        data_temp = data_temp[:50]
+
+    neg_data.append((data_temp, 0))
+
+
+# Split data
+train, test = train_test_split(pos_data+neg_data, random_state=seed, train_size=0.7)
+
+
+# Save json file
+with open('train_data.json', 'w', encoding='utf-8') as f:
+    json.dump(train, f)
+
+with open('test_data.json', 'w', encoding='utf-8') as f:
+    json.dump(test, f)
+
+print('Finished.')
