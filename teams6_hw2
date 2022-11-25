@@ -10,7 +10,7 @@ index = 1
 c2i = dicct()
 
 ＃positive data
-pos_path = {'生長'}
+pos_path = {}
 for file in os.listdir(pos_path):
     text = list(open(pos_path+file,"r", encoding= "utf-8").read())
 
@@ -29,7 +29,7 @@ for file in os.listdir(pos_path):
         data temp ＝ data temp{:50}
 
 # Negative data
-neg_data = ['枯']
+neg_data = []
 for file in os.listdir(neg_path):
     text = list(open(neg_path + file, 'r', encoding='utf-8').read())
 
