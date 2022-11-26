@@ -14,7 +14,7 @@ pcr = PlaintextCorpusReader(root=Gossiping_dir, fileids=".*\.txt")
 fd = FreqDist(samples=pcr.words())
 Gossiping_words = [word for word,freq in fd.most_common(n=n) if word not in stopwords and word[0] not in printable]
 
-source_dir = "Plant/Sat May 15/"
+source_dir = "Tech_job/Sat May 15/"
 pcr = PlaintextCorpusReader(root=source_dir, fileids=".*\.txt")
 fd = FreqDist(samples=pcr.words())
 C_Chat_words = [word for word,freq in fd.most_common(n=n) if word not in stopwords and word[0] not in printable]
